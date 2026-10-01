@@ -19,5 +19,5 @@ and what I'm currently building.
 
 ## In progress
 
-- Apple's Music Understanding framework + Swift — where my two lanes merge
+- Apple's Music Understanding framework + Swift
 - Client systems for Austin small businesses
